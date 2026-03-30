@@ -1,0 +1,4017 @@
+fileFormatVersion: 2
+guid: a2e27a2536c1f794682296a2ec1c36c7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7548831925611394601
+    second: Office Tileset All 48x48_0
+  - first:
+      213: -7681453432531274091
+    second: Office Tileset All 48x48_1
+  - first:
+      213: -3785313442848755371
+    second: Office Tileset All 48x48_2
+  - first:
+      213: -951559259452530297
+    second: Office Tileset All 48x48_3
+  - first:
+      213: 5547755565334325870
+    second: Office Tileset All 48x48_4
+  - first:
+      213: 6435271100204529081
+    second: Office Tileset All 48x48_5
+  - first:
+      213: 2379350837417123444
+    second: Office Tileset All 48x48_6
+  - first:
+      213: -1473528558003809466
+    second: Office Tileset All 48x48_7
+  - first:
+      213: -1906698892247885493
+    second: Office Tileset All 48x48_8
+  - first:
+      213: -2039853560671882426
+    second: Office Tileset All 48x48_9
+  - first:
+      213: -926424761513077976
+    second: Office Tileset All 48x48_10
+  - first:
+      213: -8262471533280413078
+    second: Office Tileset All 48x48_11
+  - first:
+      213: 1903581372621718269
+    second: Office Tileset All 48x48_12
+  - first:
+      213: -5507582470336773761
+    second: Office Tileset All 48x48_13
+  - first:
+      213: 8261856743257908321
+    second: Office Tileset All 48x48_14
+  - first:
+      213: 5657645531705837809
+    second: Office Tileset All 48x48_15
+  - first:
+      213: 1118050027729164754
+    second: Office Tileset All 48x48_16
+  - first:
+      213: -2621626637609833629
+    second: Office Tileset All 48x48_17
+  - first:
+      213: -3499802082001213365
+    second: Office Tileset All 48x48_18
+  - first:
+      213: 1996569471134609174
+    second: Office Tileset All 48x48_19
+  - first:
+      213: 976909387942404569
+    second: Office Tileset All 48x48_20
+  - first:
+      213: 8990286111687023009
+    second: Office Tileset All 48x48_21
+  - first:
+      213: 559475704451267485
+    second: Office Tileset All 48x48_22
+  - first:
+      213: 7373559405974554043
+    second: Office Tileset All 48x48_23
+  - first:
+      213: -3264346534099280192
+    second: Office Tileset All 48x48_24
+  - first:
+      213: 2980425500040445077
+    second: Office Tileset All 48x48_25
+  - first:
+      213: 8043760358792166606
+    second: Office Tileset All 48x48_26
+  - first:
+      213: -5764485584176031573
+    second: Office Tileset All 48x48_27
+  - first:
+      213: 1479728015148289225
+    second: Office Tileset All 48x48_28
+  - first:
+      213: -4041323075393602288
+    second: Office Tileset All 48x48_29
+  - first:
+      213: 8312097082968506272
+    second: Office Tileset All 48x48_30
+  - first:
+      213: 5616339015660828556
+    second: Office Tileset All 48x48_31
+  - first:
+      213: -4875573136973064325
+    second: Office Tileset All 48x48_32
+  - first:
+      213: 6133265726807946368
+    second: Office Tileset All 48x48_33
+  - first:
+      213: -875504436640329175
+    second: Office Tileset All 48x48_34
+  - first:
+      213: 5169872029531124546
+    second: Office Tileset All 48x48_35
+  - first:
+      213: 7042712570682150657
+    second: Office Tileset All 48x48_36
+  - first:
+      213: -7207758523119443201
+    second: Office Tileset All 48x48_37
+  - first:
+      213: 5052341789096282673
+    second: Office Tileset All 48x48_38
+  - first:
+      213: -7428790308212182848
+    second: Office Tileset All 48x48_39
+  - first:
+      213: 1356210253312893836
+    second: Office Tileset All 48x48_40
+  - first:
+      213: 7883961580763873476
+    second: Office Tileset All 48x48_41
+  - first:
+      213: -709717684061276234
+    second: Office Tileset All 48x48_42
+  - first:
+      213: 6340261781537740832
+    second: Office Tileset All 48x48_43
+  - first:
+      213: 9054971579498236668
+    second: Office Tileset All 48x48_44
+  - first:
+      213: -1141402194672401086
+    second: Office Tileset All 48x48_45
+  - first:
+      213: 3440869372289775671
+    second: Office Tileset All 48x48_46
+  - first:
+      213: 871470581326310628
+    second: Office Tileset All 48x48_47
+  - first:
+      213: 4545934220308786558
+    second: Office Tileset All 48x48_48
+  - first:
+      213: 6329810258054847939
+    second: Office Tileset All 48x48_49
+  - first:
+      213: -7913237088061038519
+    second: Office Tileset All 48x48_50
+  - first:
+      213: -5965311344694790812
+    second: Office Tileset All 48x48_51
+  - first:
+      213: 7307856328154715189
+    second: Office Tileset All 48x48_52
+  - first:
+      213: -3425456112831915662
+    second: Office Tileset All 48x48_53
+  - first:
+      213: 7973772003560589683
+    second: Office Tileset All 48x48_54
+  - first:
+      213: -36476280089365910
+    second: Office Tileset All 48x48_55
+  - first:
+      213: -7857049844813089310
+    second: Office Tileset All 48x48_56
+  - first:
+      213: -6231705310596353976
+    second: Office Tileset All 48x48_57
+  - first:
+      213: 3368758106826192772
+    second: Office Tileset All 48x48_58
+  - first:
+      213: -8692338028862979555
+    second: Office Tileset All 48x48_59
+  - first:
+      213: 4454353699884627114
+    second: Office Tileset All 48x48_60
+  - first:
+      213: -6222342561235900541
+    second: Office Tileset All 48x48_61
+  - first:
+      213: 6417013924206594802
+    second: Office Tileset All 48x48_62
+  - first:
+      213: 3398477599451615230
+    second: Office Tileset All 48x48_63
+  - first:
+      213: 4012877750782112810
+    second: Office Tileset All 48x48_64
+  - first:
+      213: -5238031982223827712
+    second: Office Tileset All 48x48_65
+  - first:
+      213: -2387585720769468844
+    second: Office Tileset All 48x48_66
+  - first:
+      213: 6755926158967893593
+    second: Office Tileset All 48x48_67
+  - first:
+      213: 8945647366027613461
+    second: Office Tileset All 48x48_68
+  - first:
+      213: -3812557359658615778
+    second: Office Tileset All 48x48_69
+  - first:
+      213: 320969118452332619
+    second: Office Tileset All 48x48_70
+  - first:
+      213: -1731664381934167356
+    second: Office Tileset All 48x48_71
+  - first:
+      213: -5775127174604483552
+    second: Office Tileset All 48x48_72
+  - first:
+      213: -1682230303145663208
+    second: Office Tileset All 48x48_73
+  - first:
+      213: -7644201407333403749
+    second: Office Tileset All 48x48_74
+  - first:
+      213: 6087737990623187872
+    second: Office Tileset All 48x48_75
+  - first:
+      213: -496959210249994046
+    second: Office Tileset All 48x48_76
+  - first:
+      213: -1754070468430547196
+    second: Office Tileset All 48x48_77
+  - first:
+      213: 3399067494551575011
+    second: Office Tileset All 48x48_78
+  - first:
+      213: 7446828024972214927
+    second: Office Tileset All 48x48_79
+  - first:
+      213: 4391187663321882003
+    second: Office Tileset All 48x48_80
+  - first:
+      213: 6711883544777383125
+    second: Office Tileset All 48x48_81
+  - first:
+      213: -7012465436188152983
+    second: Office Tileset All 48x48_82
+  - first:
+      213: -6901198417505996906
+    second: Office Tileset All 48x48_83
+  - first:
+      213: -4462834296249464787
+    second: Office Tileset All 48x48_84
+  - first:
+      213: -8313063524836929606
+    second: Office Tileset All 48x48_85
+  - first:
+      213: 511520770662268661
+    second: Office Tileset All 48x48_86
+  - first:
+      213: -565383260642683630
+    second: Office Tileset All 48x48_87
+  - first:
+      213: -6490240583667852557
+    second: Office Tileset All 48x48_88
+  - first:
+      213: 4846934899214172549
+    second: Office Tileset All 48x48_89
+  - first:
+      213: 4209505780523116993
+    second: Office Tileset All 48x48_90
+  - first:
+      213: -595539778098890221
+    second: Office Tileset All 48x48_91
+  - first:
+      213: -2669525771193199797
+    second: Office Tileset All 48x48_92
+  - first:
+      213: 3994510545782725758
+    second: Office Tileset All 48x48_93
+  - first:
+      213: -4534846674181315608
+    second: Office Tileset All 48x48_94
+  - first:
+      213: -8029627881279773016
+    second: Office Tileset All 48x48_95
+  - first:
+      213: -1655367568566505633
+    second: Office Tileset All 48x48_96
+  - first:
+      213: 3580021451181101678
+    second: Office Tileset All 48x48_97
+  - first:
+      213: -3629242471195325958
+    second: Office Tileset All 48x48_98
+  - first:
+      213: -5529379973345250028
+    second: Office Tileset All 48x48_99
+  - first:
+      213: 1417517802515495269
+    second: Office Tileset All 48x48_100
+  - first:
+      213: 1926237554867011485
+    second: Office Tileset All 48x48_101
+  - first:
+      213: 3509478717476685753
+    second: Office Tileset All 48x48_102
+  - first:
+      213: -6395190130534150454
+    second: Office Tileset All 48x48_103
+  - first:
+      213: -1249287115666892406
+    second: Office Tileset All 48x48_104
+  - first:
+      213: 8323748124133228859
+    second: Office Tileset All 48x48_105
+  - first:
+      213: 244459597280385698
+    second: Office Tileset All 48x48_106
+  - first:
+      213: -3861000236214197323
+    second: Office Tileset All 48x48_107
+  - first:
+      213: -3396814419797315004
+    second: Office Tileset All 48x48_108
+  - first:
+      213: -8199525269873585795
+    second: Office Tileset All 48x48_109
+  - first:
+      213: 6287737678412865545
+    second: Office Tileset All 48x48_110
+  - first:
+      213: -145059452882544263
+    second: Office Tileset All 48x48_111
+  - first:
+      213: -8980363411541136573
+    second: Office Tileset All 48x48_112
+  - first:
+      213: -2880263666363336758
+    second: Office Tileset All 48x48_113
+  - first:
+      213: 4183780543598694462
+    second: Office Tileset All 48x48_114
+  - first:
+      213: -8563433429266293282
+    second: Office Tileset All 48x48_115
+  - first:
+      213: -1440588081081677082
+    second: Office Tileset All 48x48_116
+  - first:
+      213: 5206749123466712209
+    second: Office Tileset All 48x48_117
+  - first:
+      213: 460449483629439577
+    second: Office Tileset All 48x48_118
+  - first:
+      213: -6880494560103701933
+    second: Office Tileset All 48x48_119
+  - first:
+      213: -7491001602850354895
+    second: Office Tileset All 48x48_120
+  - first:
+      213: -8123172962555143501
+    second: Office Tileset All 48x48_121
+  - first:
+      213: -4566815264173632101
+    second: Office Tileset All 48x48_122
+  - first:
+      213: 9076237541588627690
+    second: Office Tileset All 48x48_123
+  - first:
+      213: 2685261942496522418
+    second: Office Tileset All 48x48_124
+  - first:
+      213: -2233923042091737630
+    second: Office Tileset All 48x48_125
+  - first:
+      213: -6011605882016207399
+    second: Office Tileset All 48x48_126
+  - first:
+      213: -1891448108821995840
+    second: Office Tileset All 48x48_127
+  - first:
+      213: -143281742265186253
+    second: Office Tileset All 48x48_128
+  - first:
+      213: 6329751283628652304
+    second: Office Tileset All 48x48_129
+  - first:
+      213: 7776873737056201302
+    second: Office Tileset All 48x48_130
+  - first:
+      213: -5441365797781247986
+    second: Office Tileset All 48x48_131
+  - first:
+      213: -1484254219490932464
+    second: Office Tileset All 48x48_132
+  - first:
+      213: -8922528186800709646
+    second: Office Tileset All 48x48_133
+  - first:
+      213: 3053166079885264007
+    second: Office Tileset All 48x48_134
+  - first:
+      213: -4441837919014061401
+    second: Office Tileset All 48x48_135
+  - first:
+      213: 5447440258331761372
+    second: Office Tileset All 48x48_136
+  - first:
+      213: 1097898660335853531
+    second: Office Tileset All 48x48_137
+  - first:
+      213: -460426642205844989
+    second: Office Tileset All 48x48_138
+  - first:
+      213: -2612395571768589523
+    second: Office Tileset All 48x48_139
+  - first:
+      213: 7238994758474902311
+    second: Office Tileset All 48x48_140
+  - first:
+      213: 2295152302082173457
+    second: Office Tileset All 48x48_141
+  - first:
+      213: -8729738152670224026
+    second: Office Tileset All 48x48_142
+  - first:
+      213: 97067517855752065
+    second: Office Tileset All 48x48_143
+  - first:
+      213: 635010213569141902
+    second: Office Tileset All 48x48_144
+  - first:
+      213: -8404494076300211496
+    second: Office Tileset All 48x48_145
+  - first:
+      213: -3388946012894224114
+    second: Office Tileset All 48x48_146
+  - first:
+      213: 776764294608114113
+    second: Office Tileset All 48x48_147
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: iOS
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WindowsStoreApps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1469
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926f13314a6d2c860800000000000000
+      internalID: 7548831925611394601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 1469
+        width: 122
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596b44b1dcef56590800000000000000
+      internalID: -7681453432531274091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_2
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1511
+        width: 50
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5513d7baa7dd77bc0800000000000000
+      internalID: -3785313442848755371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_3
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1487
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 781299525e16bc2f0800000000000000
+      internalID: -951559259452530297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1373
+        width: 122
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ae27c1b469dfc40800000000000000
+      internalID: 5547755565334325870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_5
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1343
+        width: 530
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5370958fcae4950800000000000000
+      internalID: 6435271100204529081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_6
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1439
+        width: 338
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e9644faf6250120800000000000000
+      internalID: 2379350837417123444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_7
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 1439
+        width: 62
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6431ac56599fc8be0800000000000000
+      internalID: -1473528558003809466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_8
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1391
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b491fe9a57b0a85e0800000000000000
+      internalID: -1906698892247885493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1085
+        width: 385
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64336528efbf0b3e0800000000000000
+      internalID: -2039853560671882426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_10
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1343
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82313ea769da423f0800000000000000
+      internalID: -926424761513077976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1247
+        width: 146
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6a3b0cbaedc55d80800000000000000
+      internalID: -8262471533280413078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_12
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1295
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df20b2c3c21ea6a10800000000000000
+      internalID: 1903581372621718269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_13
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1295
+        width: 89
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7188647ce22193b0800000000000000
+      internalID: -5507582470336773761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_14
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1295
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 164ad0f4fe208a270800000000000000
+      internalID: 8261856743257908321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_15
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1175
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f80766b2aef38e40800000000000000
+      internalID: 5657645531705837809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_16
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1175
+        width: 62
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d999e7939c148f00800000000000000
+      internalID: 1118050027729164754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1247
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b609b867c1e9bd0800000000000000
+      internalID: -2621626637609833629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_18
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1199
+        width: 122
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4825269c843e6fc0800000000000000
+      internalID: -3499802082001213365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_19
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1199
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61f2e501b5d35bb10800000000000000
+      internalID: 1996569471134609174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1151
+        width: 122
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d12d0699edae8d00800000000000000
+      internalID: 976909387942404569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_21
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1151
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a99b340699e3cc70800000000000000
+      internalID: 8990286111687023009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 673
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9b77406038a3c700800000000000000
+      internalID: 559475704451267485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_23
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1031
+        width: 122
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb58a538635245660800000000000000
+      internalID: 7373559405974554043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1031
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce1c3b5f16b2b2d0800000000000000
+      internalID: -3264346534099280192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1031
+        width: 92
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c3d6983399c5920800000000000000
+      internalID: 2980425500040445077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_26
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1007
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eccfc2cbd6d21af60800000000000000
+      internalID: 8043760358792166606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_27
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 887
+        width: 89
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba8d35a17ee6000b0800000000000000
+      internalID: -5764485584176031573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_28
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 767
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc8b133acc098410800000000000000
+      internalID: 1479728015148289225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_29
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 767
+        width: 14
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d339423165ae7c0800000000000000
+      internalID: -4041323075393602288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_30
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aff5e0f1408a5370800000000000000
+      internalID: 8312097082968506272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_31
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 713
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8771aef39e31fd40800000000000000
+      internalID: 5616339015660828556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_32
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b779846501c765cb0800000000000000
+      internalID: -4875573136973064325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084377fdeacbd1550800000000000000
+      internalID: 6133265726807946368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_34
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92256ce7a5599d3f0800000000000000
+      internalID: -875504436640329175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_35
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 713
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2433e6e38331fb740800000000000000
+      internalID: 5169872029531124546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_36
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f00b6e4cdbcb160800000000000000
+      internalID: 7042712570682150657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_37
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 713
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff2eba2cfc5e8fb90800000000000000
+      internalID: -7207758523119443201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_38
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 647
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13a02f6b6168d1640800000000000000
+      internalID: 5052341789096282673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_39
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 647
+        width: 38
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c0f528f292a7e890800000000000000
+      internalID: -7428790308212182848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_40
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 647
+        width: 98
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8325753a0a32d210800000000000000
+      internalID: 1356210253312893836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_41
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 647
+        width: 71
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c002446945796d60800000000000000
+      internalID: 7883961580763873476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_42
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 617
+        width: 38
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7f6bec6839626f0800000000000000
+      internalID: -709717684061276234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_43
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 575
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 028da878f722df750800000000000000
+      internalID: 6340261781537740832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_44
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 575
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfa004f1da8b9ad70800000000000000
+      internalID: 9054971579498236668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_45
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 575
+        width: 38
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24543b850cce820f0800000000000000
+      internalID: -1141402194672401086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_46
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 653
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7387adda67c60cf20800000000000000
+      internalID: 3440869372289775671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_47
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 653
+        width: 26
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec682060e5181c00800000000000000
+      internalID: 871470581326310628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 590
+        width: 194
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d2cc58617661f30800000000000000
+      internalID: 4545934220308786558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_49
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 584
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd9bf694e008d750800000000000000
+      internalID: 6329810258054847939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_50
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 590
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 940eca66bc88e2290800000000000000
+      internalID: -7913237088061038519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_51
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 590
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465fbd400f4f63da0800000000000000
+      internalID: -5965311344694790812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 494
+        width: 97
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534904d9c98ba6560800000000000000
+      internalID: 7307856328154715189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_53
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 497
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27996f070d55670d0800000000000000
+      internalID: -3425456112831915662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_54
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 497
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3790f20f36788ae60800000000000000
+      internalID: 7973772003560589683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_55
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 497
+        width: 77
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a62bb8a34096e7ff0800000000000000
+      internalID: -36476280089365910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_56
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 530
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5b0696bc626f290800000000000000
+      internalID: -7857049844813089310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_57
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 533
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8403df879098489a0800000000000000
+      internalID: -6231705310596353976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_58
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 530
+        width: 41
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 487b79356ab30ce20800000000000000
+      internalID: 3368758106826192772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_59
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 533
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d12c002ed9c9e5780800000000000000
+      internalID: -8692338028862979555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_60
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 542
+        width: 32
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa4f191071b01dd30800000000000000
+      internalID: 4454353699884627114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_61
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 542
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3876dbe686cc5a9a0800000000000000
+      internalID: -6222342561235900541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_62
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 536
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fac11f4a20dd0950800000000000000
+      internalID: 6417013924206594802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_63
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eff8f6cee51d92f20800000000000000
+      internalID: 3398477599451615230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_64
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a24bf6e9d0b90b730800000000000000
+      internalID: 4012877750782112810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_65
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00dd9691aa5ce47b0800000000000000
+      internalID: -5238031982223827712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_66
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 488
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456adbadf679dded0800000000000000
+      internalID: -2387585720769468844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_67
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 491
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95eec021c0fd1cd50800000000000000
+      internalID: 6755926158967893593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_68
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 491
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151cf122e2552c70800000000000000
+      internalID: 8945647366027613461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_69
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 491
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c3fbbf743171bc0800000000000000
+      internalID: -3812557359658615778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_70
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 491
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48b83176bf447400800000000000000
+      internalID: 320969118452332619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_71
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ca1e9c5b64e7f7e0800000000000000
+      internalID: -1731664381934167356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_72
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0249ef0ce60aadfa0800000000000000
+      internalID: -5775127174604483552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_73
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 815ea9eb37487a8e0800000000000000
+      internalID: -1682230303145663208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_74
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93f95c12575ae590800000000000000
+      internalID: -7644201407333403749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_75
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 407
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3deb0c27dfb7450800000000000000
+      internalID: 6087737990623187872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_76
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 401
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0c0353b327a19f0800000000000000
+      internalID: -496959210249994046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_77
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 401
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 407b132d33a48a7e0800000000000000
+      internalID: -1754070468430547196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_78
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 401
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9d25490e9eb2f20800000000000000
+      internalID: 3399067494551575011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_79
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 407
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8284eb32a2785760800000000000000
+      internalID: 7446828024972214927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_80
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 407
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dd06e0ae1a0fc30800000000000000
+      internalID: 4391187663321882003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_81
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 407
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcde3cd586652d50800000000000000
+      internalID: 6711883544777383125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_82
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 407
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96bec44e6d7beae90800000000000000
+      internalID: -7012465436188152983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_83
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 410
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f21187a940a30a0800000000000000
+      internalID: -6901198417505996906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_84
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 410
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28ce984ad3d012c0800000000000000
+      internalID: -4462834296249464787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_85
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 410
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abf86d6c4c012ac80800000000000000
+      internalID: -8313063524836929606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_86
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 410
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fefe864e69491700800000000000000
+      internalID: 511520770662268661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_87
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 386
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 215d0738bea5728f0800000000000000
+      internalID: -565383260642683630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_88
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 386
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fa57af63980ee5a0800000000000000
+      internalID: -6490240583667852557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_89
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 386
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 581ca155c95c34340800000000000000
+      internalID: 4846934899214172549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_90
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 386
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9a808543b2b6a30800000000000000
+      internalID: 4209505780523116993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_91
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 389
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31afcc42ab73cb7f0800000000000000
+      internalID: -595539778098890221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_92
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 389
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4357417470f3fad0800000000000000
+      internalID: -2669525771193199797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_93
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 389
+        width: 32
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c5ee47d2a5f6730800000000000000
+      internalID: 3994510545782725758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_94
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 389
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e3af8af9fcf011c0800000000000000
+      internalID: -4534846674181315608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_95
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 302
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a62fb91cf7019090800000000000000
+      internalID: -8029627881279773016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_96
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 302
+        width: 92
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f24e687f3f609e0800000000000000
+      internalID: -1655367568566505633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_97
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 302
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e629de5ca8acea130800000000000000
+      internalID: 3580021451181101678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_98
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 302
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af944a4733752adc0800000000000000
+      internalID: -3629242471195325958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_99
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 302
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f89cc532b343b0800000000000000
+      internalID: -5529379973345250028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_100
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 302
+        width: 44
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5697ab95ee80ca310800000000000000
+      internalID: 1417517802515495269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_101
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 329
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f7ddab9de5bba10800000000000000
+      internalID: 1926237554867011485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_102
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 329
+        width: 41
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7cdfdac4c24b030800000000000000
+      internalID: 3509478717476685753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_103
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 347
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace8d6e9578bf37a0800000000000000
+      internalID: -6395190130534150454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_104
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 293
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a89d330ccf3a9aee0800000000000000
+      internalID: -1249287115666892406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_105
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 293
+        width: 38
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3109ca51d4e38370800000000000000
+      internalID: 8323748124133228859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_106
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 311
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa15d165be746300800000000000000
+      internalID: 244459597280385698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_107
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 314
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e0caddb8fa6ac0800000000000000
+      internalID: -3861000236214197323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_108
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 299
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4427e0448471cd0d0800000000000000
+      internalID: -3396814419797315004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_109
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 194
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d719852c53f653e80800000000000000
+      internalID: -8199525269873585795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_110
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 269
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90063aaca18824750800000000000000
+      internalID: 6287737678412865545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_111
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 239
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9799f973235acfdf0800000000000000
+      internalID: -145059452882544263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_112
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 251
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bec25ae075f5380800000000000000
+      internalID: -8980363411541136573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_113
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 251
+        width: 38
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac7f2faa47f3708d0800000000000000
+      internalID: -2880263666363336758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_114
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 206
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e30146fdc36cf0a30800000000000000
+      internalID: 4183780543598694462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_115
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 203
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd90e6caa2982980800000000000000
+      internalID: -8563433429266293282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_116
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 203
+        width: 80
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea0777d5c0020ce0800000000000000
+      internalID: -1440588081081677082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_117
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 200
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1945fc2cdb6124840800000000000000
+      internalID: 5206749123466712209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_118
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 209
+        width: 23
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95aaeb4ad58d36600800000000000000
+      internalID: 460449483629439577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_119
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 230
+        width: 14
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352e20ae6a29380a0800000000000000
+      internalID: -6880494560103701933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_120
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 215
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13909323bbd9a0890800000000000000
+      internalID: -7491001602850354895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_121
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad7dd9a31b44f80800000000000000
+      internalID: -8123172962555143501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_122
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 194
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b95591896b96f90c0800000000000000
+      internalID: -4566815264173632101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_123
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 191
+        width: 41
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae07473c4f545fd70800000000000000
+      internalID: 9076237541588627690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_124
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 104
+        width: 92
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b071637287f34520800000000000000
+      internalID: 2685261942496522418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 122
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eddf8c34d28ff0e0800000000000000
+      internalID: -2233923042091737630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_126
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 116
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd66c81d4c729ca0800000000000000
+      internalID: -6011605882016207399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_127
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 143
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ce949267f930c5e0800000000000000
+      internalID: -1891448108821995840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_128
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 143
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3380c79b306f20ef0800000000000000
+      internalID: -143281742265186253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_129
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 143
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0173249814bc7d750800000000000000
+      internalID: 6329751283628652304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_130
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 143
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65aac40d5710deb60800000000000000
+      internalID: 7776873737056201302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_131
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 95
+        width: 41
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08e942f2a26c74b0800000000000000
+      internalID: -5441365797781247986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_132
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 95
+        width: 41
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0194edab6aed66be0800000000000000
+      internalID: -1484254219490932464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_133
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 95
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff555f33efcc2480800000000000000
+      internalID: -8922528186800709646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_134
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 95
+        width: 80
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78445df8f560f5a20800000000000000
+      internalID: 3053166079885264007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_135
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 95
+        width: 80
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa7e4f42fb6b52c0800000000000000
+      internalID: -4441837919014061401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_136
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdad60d9d02399b40800000000000000
+      internalID: 5447440258331761372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_137
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 95
+        width: 41
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf12b0c3058c3f00800000000000000
+      internalID: 1097898660335853531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_138
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 95
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30ad13a886c3c99f0800000000000000
+      internalID: -460426642205844989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_139
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 95
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d230eeb8118eebbd0800000000000000
+      internalID: -2612395571768589523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_140
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 53
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bafc50163167460800000000000000
+      internalID: 7238994758474902311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_141
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 53
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a2707cbd40adf10800000000000000
+      internalID: 2295152302082173457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_142
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 53
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 661aaebf66db9d680800000000000000
+      internalID: -8729738152670224026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_143
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 50
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f5509a46ad85100800000000000000
+      internalID: 97067517855752065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_144
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 5
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c9880cc6200d800800000000000000
+      internalID: 635010213569141902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_145
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 5
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da4041aa2d3d5b80800000000000000
+      internalID: -8404494076300211496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_146
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 5
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01a6728e8b08f0d0800000000000000
+      internalID: -3388946012894224114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Office Tileset All 48x48_147
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 2
+        width: 50
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1d25ea20f97ca00800000000000000
+      internalID: 776764294608114113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Office Tileset All 48x48_0: 7548831925611394601
+      Office Tileset All 48x48_1: -7681453432531274091
+      Office Tileset All 48x48_10: -926424761513077976
+      Office Tileset All 48x48_100: 1417517802515495269
+      Office Tileset All 48x48_101: 1926237554867011485
+      Office Tileset All 48x48_102: 3509478717476685753
+      Office Tileset All 48x48_103: -6395190130534150454
+      Office Tileset All 48x48_104: -1249287115666892406
+      Office Tileset All 48x48_105: 8323748124133228859
+      Office Tileset All 48x48_106: 244459597280385698
+      Office Tileset All 48x48_107: -3861000236214197323
+      Office Tileset All 48x48_108: -3396814419797315004
+      Office Tileset All 48x48_109: -8199525269873585795
+      Office Tileset All 48x48_11: -8262471533280413078
+      Office Tileset All 48x48_110: 6287737678412865545
+      Office Tileset All 48x48_111: -145059452882544263
+      Office Tileset All 48x48_112: -8980363411541136573
+      Office Tileset All 48x48_113: -2880263666363336758
+      Office Tileset All 48x48_114: 4183780543598694462
+      Office Tileset All 48x48_115: -8563433429266293282
+      Office Tileset All 48x48_116: -1440588081081677082
+      Office Tileset All 48x48_117: 5206749123466712209
+      Office Tileset All 48x48_118: 460449483629439577
+      Office Tileset All 48x48_119: -6880494560103701933
+      Office Tileset All 48x48_12: 1903581372621718269
+      Office Tileset All 48x48_120: -7491001602850354895
+      Office Tileset All 48x48_121: -8123172962555143501
+      Office Tileset All 48x48_122: -4566815264173632101
+      Office Tileset All 48x48_123: 9076237541588627690
+      Office Tileset All 48x48_124: 2685261942496522418
+      Office Tileset All 48x48_125: -2233923042091737630
+      Office Tileset All 48x48_126: -6011605882016207399
+      Office Tileset All 48x48_127: -1891448108821995840
+      Office Tileset All 48x48_128: -143281742265186253
+      Office Tileset All 48x48_129: 6329751283628652304
+      Office Tileset All 48x48_13: -5507582470336773761
+      Office Tileset All 48x48_130: 7776873737056201302
+      Office Tileset All 48x48_131: -5441365797781247986
+      Office Tileset All 48x48_132: -1484254219490932464
+      Office Tileset All 48x48_133: -8922528186800709646
+      Office Tileset All 48x48_134: 3053166079885264007
+      Office Tileset All 48x48_135: -4441837919014061401
+      Office Tileset All 48x48_136: 5447440258331761372
+      Office Tileset All 48x48_137: 1097898660335853531
+      Office Tileset All 48x48_138: -460426642205844989
+      Office Tileset All 48x48_139: -2612395571768589523
+      Office Tileset All 48x48_14: 8261856743257908321
+      Office Tileset All 48x48_140: 7238994758474902311
+      Office Tileset All 48x48_141: 2295152302082173457
+      Office Tileset All 48x48_142: -8729738152670224026
+      Office Tileset All 48x48_143: 97067517855752065
+      Office Tileset All 48x48_144: 635010213569141902
+      Office Tileset All 48x48_145: -8404494076300211496
+      Office Tileset All 48x48_146: -3388946012894224114
+      Office Tileset All 48x48_147: 776764294608114113
+      Office Tileset All 48x48_15: 5657645531705837809
+      Office Tileset All 48x48_16: 1118050027729164754
+      Office Tileset All 48x48_17: -2621626637609833629
+      Office Tileset All 48x48_18: -3499802082001213365
+      Office Tileset All 48x48_19: 1996569471134609174
+      Office Tileset All 48x48_2: -3785313442848755371
+      Office Tileset All 48x48_20: 976909387942404569
+      Office Tileset All 48x48_21: 8990286111687023009
+      Office Tileset All 48x48_22: 559475704451267485
+      Office Tileset All 48x48_23: 7373559405974554043
+      Office Tileset All 48x48_24: -3264346534099280192
+      Office Tileset All 48x48_25: 2980425500040445077
+      Office Tileset All 48x48_26: 8043760358792166606
+      Office Tileset All 48x48_27: -5764485584176031573
+      Office Tileset All 48x48_28: 1479728015148289225
+      Office Tileset All 48x48_29: -4041323075393602288
+      Office Tileset All 48x48_3: -951559259452530297
+      Office Tileset All 48x48_30: 8312097082968506272
+      Office Tileset All 48x48_31: 5616339015660828556
+      Office Tileset All 48x48_32: -4875573136973064325
+      Office Tileset All 48x48_33: 6133265726807946368
+      Office Tileset All 48x48_34: -875504436640329175
+      Office Tileset All 48x48_35: 5169872029531124546
+      Office Tileset All 48x48_36: 7042712570682150657
+      Office Tileset All 48x48_37: -7207758523119443201
+      Office Tileset All 48x48_38: 5052341789096282673
+      Office Tileset All 48x48_39: -7428790308212182848
+      Office Tileset All 48x48_4: 5547755565334325870
+      Office Tileset All 48x48_40: 1356210253312893836
+      Office Tileset All 48x48_41: 7883961580763873476
+      Office Tileset All 48x48_42: -709717684061276234
+      Office Tileset All 48x48_43: 6340261781537740832
+      Office Tileset All 48x48_44: 9054971579498236668
+      Office Tileset All 48x48_45: -1141402194672401086
+      Office Tileset All 48x48_46: 3440869372289775671
+      Office Tileset All 48x48_47: 871470581326310628
+      Office Tileset All 48x48_48: 4545934220308786558
+      Office Tileset All 48x48_49: 6329810258054847939
+      Office Tileset All 48x48_5: 6435271100204529081
+      Office Tileset All 48x48_50: -7913237088061038519
+      Office Tileset All 48x48_51: -5965311344694790812
+      Office Tileset All 48x48_52: 7307856328154715189
+      Office Tileset All 48x48_53: -3425456112831915662
+      Office Tileset All 48x48_54: 7973772003560589683
+      Office Tileset All 48x48_55: -36476280089365910
+      Office Tileset All 48x48_56: -7857049844813089310
+      Office Tileset All 48x48_57: -6231705310596353976
+      Office Tileset All 48x48_58: 3368758106826192772
+      Office Tileset All 48x48_59: -8692338028862979555
+      Office Tileset All 48x48_6: 2379350837417123444
+      Office Tileset All 48x48_60: 4454353699884627114
+      Office Tileset All 48x48_61: -6222342561235900541
+      Office Tileset All 48x48_62: 6417013924206594802
+      Office Tileset All 48x48_63: 3398477599451615230
+      Office Tileset All 48x48_64: 4012877750782112810
+      Office Tileset All 48x48_65: -5238031982223827712
+      Office Tileset All 48x48_66: -2387585720769468844
+      Office Tileset All 48x48_67: 6755926158967893593
+      Office Tileset All 48x48_68: 8945647366027613461
+      Office Tileset All 48x48_69: -3812557359658615778
+      Office Tileset All 48x48_7: -1473528558003809466
+      Office Tileset All 48x48_70: 320969118452332619
+      Office Tileset All 48x48_71: -1731664381934167356
+      Office Tileset All 48x48_72: -5775127174604483552
+      Office Tileset All 48x48_73: -1682230303145663208
+      Office Tileset All 48x48_74: -7644201407333403749
+      Office Tileset All 48x48_75: 6087737990623187872
+      Office Tileset All 48x48_76: -496959210249994046
+      Office Tileset All 48x48_77: -1754070468430547196
+      Office Tileset All 48x48_78: 3399067494551575011
+      Office Tileset All 48x48_79: 7446828024972214927
+      Office Tileset All 48x48_8: -1906698892247885493
+      Office Tileset All 48x48_80: 4391187663321882003
+      Office Tileset All 48x48_81: 6711883544777383125
+      Office Tileset All 48x48_82: -7012465436188152983
+      Office Tileset All 48x48_83: -6901198417505996906
+      Office Tileset All 48x48_84: -4462834296249464787
+      Office Tileset All 48x48_85: -8313063524836929606
+      Office Tileset All 48x48_86: 511520770662268661
+      Office Tileset All 48x48_87: -565383260642683630
+      Office Tileset All 48x48_88: -6490240583667852557
+      Office Tileset All 48x48_89: 4846934899214172549
+      Office Tileset All 48x48_9: -2039853560671882426
+      Office Tileset All 48x48_90: 4209505780523116993
+      Office Tileset All 48x48_91: -595539778098890221
+      Office Tileset All 48x48_92: -2669525771193199797
+      Office Tileset All 48x48_93: 3994510545782725758
+      Office Tileset All 48x48_94: -4534846674181315608
+      Office Tileset All 48x48_95: -8029627881279773016
+      Office Tileset All 48x48_96: -1655367568566505633
+      Office Tileset All 48x48_97: 3580021451181101678
+      Office Tileset All 48x48_98: -3629242471195325958
+      Office Tileset All 48x48_99: -5529379973345250028
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
