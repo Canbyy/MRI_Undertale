@@ -53,14 +53,17 @@ TagManager:
   - name: Decor
     uniqueID: 4293661009
     locked: 0
+  - name: NPC
+    uniqueID: 1502496735
+    locked: 0
   - name: Decor 2
     uniqueID: 935664159
     locked: 0
-  - name: WalkBehind
-    uniqueID: 249360603
-    locked: 0
   - name: Player
     uniqueID: 2300582611
+    locked: 0
+  - name: WalkBehind
+    uniqueID: 249360603
     locked: 0
   m_RenderingLayers:
   - Default
