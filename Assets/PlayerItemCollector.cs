@@ -5,7 +5,9 @@ using UnityEngine;
 public class PlayerItemCollector : MonoBehaviour
 {
     private InventoryController inventoryController;
+
     // Start is called before the first frame update
+    [System.Obsolete]
     void Start()
     {
         inventoryController = FindObjectOfType<InventoryController>();
