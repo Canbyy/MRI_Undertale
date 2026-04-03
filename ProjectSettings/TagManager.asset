@@ -3,7 +3,8 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 3
-  tags: []
+  tags:
+  - Item
   layers:
   - Default
   - TransparentFX
@@ -58,6 +59,9 @@ TagManager:
     locked: 0
   - name: Decor 2
     uniqueID: 935664159
+    locked: 0
+  - name: Interactable
+    uniqueID: 1816183429
     locked: 0
   - name: Player
     uniqueID: 2300582611
