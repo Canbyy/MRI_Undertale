@@ -12,15 +12,19 @@ public class InventoryController : MonoBehaviour
     public GameObject[] itemPrefabs;
 
     // Start is called before the first frame update
-    [System.Obsolete]
-    void Start()
+    private void Awake()
     {
-        itemDictionary = FindObjectOfType<ItemDictionary>();
+        itemDictionary = FindFirstObjectByType<ItemDictionary>();
+
+        if (itemDictionary == null)
+        {
+            Debug.LogError("ItemDictionary not found in scene!");
+        }
 
         //for (int i = 0; i < slotCount; i++)
         //{
         //    Slot slot = Instantiate(slotPrefab, inventoryPanel.transform).GetComponent<Slot>();
-        //    if(i < itemPrefabs.Length)
+        //    if (i < itemPrefabs.Length)
         //    {
         //        GameObject item = Instantiate(itemPrefabs[i], slot.transform);
         //        item.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
@@ -77,20 +81,72 @@ public class InventoryController : MonoBehaviour
             Instantiate(slotPrefab, inventoryPanel.transform);
         }
 
-        //Populate slots with saved items
-        foreach(InventorySaveData data in inventorySaveData)
+        // Populate slots with saved items
+        foreach (InventorySaveData data in inventorySaveData)
         {
-            if(data.slotIndex < slotCount)
+            if (data == null)
             {
-                Slot slot = inventoryPanel.transform.GetChild(data.slotIndex).GetComponent<Slot>();
-                GameObject itemPrefab = itemDictionary.GetItemPrefab(data.itemID);
-                if(itemPrefab != null)
-                {
-                    GameObject item = Instantiate(itemPrefab, slot.transform);
-                    item.GetComponent<RectTransform>().anchoredPosition = Vector2.zero;
-                    slot.currentItem = item;
-                }
+                Debug.LogError("data is NULL");
+                continue;
             }
+
+            Debug.Log($"Loading itemID: {data.itemID}, slotIndex: {data.slotIndex}");
+
+            if (inventoryPanel == null)
+            {
+                Debug.LogError("inventoryPanel is NULL");
+                return;
+            }
+
+            if (itemDictionary == null)
+            {
+                Debug.LogError("itemDictionary is NULL");
+                return;
+            }
+
+            if (data.slotIndex < 0 || data.slotIndex >= inventoryPanel.transform.childCount)
+            {
+                Debug.LogError($"Invalid slotIndex: {data.slotIndex}, childCount: {inventoryPanel.transform.childCount}");
+                continue;
+            }
+
+            Transform slotTransform = inventoryPanel.transform.GetChild(data.slotIndex);
+
+            if (slotTransform == null)
+            {
+                Debug.LogError($"slotTransform is NULL at index {data.slotIndex}");
+                continue;
+            }
+
+            Slot slot = slotTransform.GetComponent<Slot>();
+
+            if (slot == null)
+            {
+                Debug.LogError($"No Slot component found on child index {data.slotIndex}");
+                continue;
+            }
+
+            GameObject itemPrefab = itemDictionary.GetItemPrefab(data.itemID);
+
+            if (itemPrefab == null)
+            {
+                Debug.LogError($"No item prefab found for itemID: {data.itemID}");
+                continue;
+            }
+
+            GameObject item = Instantiate(itemPrefab, slot.transform);
+
+            RectTransform rect = item.GetComponent<RectTransform>();
+            if (rect != null)
+            {
+                rect.anchoredPosition = Vector2.zero;
+            }
+            else
+            {
+                Debug.LogWarning($"Instantiated item {item.name} has no RectTransform");
+            }
+
+            slot.currentItem = item;
         }
     }
 }
