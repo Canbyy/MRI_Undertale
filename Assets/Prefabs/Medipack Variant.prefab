@@ -24,6 +24,10 @@ PrefabInstance:
       propertyPath: ID
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 8108707590887731686, guid: 20b006033579b174998516653d7630c4, type: 3}
+      propertyPath: Name
+      value: Medpack
+      objectReference: {fileID: 0}
     - target: {fileID: 8705378455183128815, guid: 20b006033579b174998516653d7630c4, type: 3}
       propertyPath: m_Pivot.x
       value: 0.5

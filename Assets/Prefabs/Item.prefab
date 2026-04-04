@@ -16,6 +16,7 @@ GameObject:
   - component: {fileID: 8108707590887731686}
   - component: {fileID: 3020117477892996206}
   - component: {fileID: -1775522969538980924}
+  - component: {fileID: -4614828405272725293}
   m_Layer: 5
   m_Name: Item
   m_TagString: Item
@@ -104,6 +105,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: afb09860a86a0444ea415731add4aec5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  minDropDistance: 2
+  maxDropDistance: 3
 --- !u!114 &8108707590887731686
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -117,7 +120,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ID: 1
-  Name: 
+  Name: Water
 --- !u!212 &3020117477892996206
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -209,3 +212,18 @@ CircleCollider2D:
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
   m_Radius: 0.34375
+--- !u!114 &-4614828405272725293
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8004314518583075689}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8fb7268c0a2d78741a9c255dbdcec033, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bounceHeight: 0.3
+  bounceDuration: 0.4
+  bounceCount: 3
