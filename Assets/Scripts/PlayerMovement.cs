@@ -17,7 +17,6 @@ public class PlayerMovement : MonoBehaviour
     }
 
     // Update is called once per frame
-    [System.Obsolete]
     void FixedUpdate()
     {
         float horizontal = Input.GetAxisRaw("Horizontal"); // Get horizontal input (A/D or Left/Right)
@@ -33,9 +32,12 @@ public class PlayerMovement : MonoBehaviour
         animator.SetFloat("vertical", (vertical)); // Update the "moveY" parameter in the animator to control vertical movement animations
 
 
-        rb.velocity = new Vector2(horizontal * moveSpeed, vertical * moveSpeed); // Set the velocity of the Rigidbody2D based on input and move speed
+        rb.linearVelocity = new Vector2(horizontal * moveSpeed, vertical * moveSpeed); // Set the velocity of the Rigidbody2D based on input and move speed
     }
-
+    public void Move(InputAction.CallbackContext context)
+    {
+        moveInput = context.ReadValue<Vector2>();
+    }
     void Flip()
     {
         facingDirection *= 1;

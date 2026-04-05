@@ -15,7 +15,7 @@ public class SoundEffectManager : MonoBehaviour
 
     private void Awake()
     {
-        if(Instance == null)
+        if (Instance == null)
         {
             Instance = this;
             AudioSource[] audioSources = GetComponents<AudioSource>();
@@ -34,7 +34,7 @@ public class SoundEffectManager : MonoBehaviour
     public static void Play(string soundName, bool randomPitch = false)
     {
         AudioClip audioClip = soundEffectLibrary.GetRandomClip(soundName);
-        if(audioClip != null)
+        if (audioClip != null)
         {
             if (randomPitch)
             {
@@ -50,6 +50,20 @@ public class SoundEffectManager : MonoBehaviour
 
     public static void PlayVoice(AudioClip audioClip, float pitch = 1f)
     {
+        Debug.Log("PlayVoice called");
+
+        if (voiceAudioSource == null)
+        {
+            Debug.LogError("voiceAudioSource is NULL");
+            return;
+        }
+
+        if (audioClip == null)
+        {
+            Debug.LogError("audioClip is NULL");
+            return;
+        }
+
         voiceAudioSource.pitch = pitch;
         voiceAudioSource.PlayOneShot(audioClip);
     }
