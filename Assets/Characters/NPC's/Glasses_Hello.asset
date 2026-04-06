@@ -16,12 +16,28 @@ MonoBehaviour:
   npcPortrait: {fileID: 1380069322, guid: d0504d57d79ec774682353c550cd54dd, type: 3}
   dialogueLines:
   - Hello there! Welcome to the Super Hospital
-  - Feel Free To Explore And Get Yourself Comfortable
+  - How are you?
   - If you want grab some water out of the box right over there
-  autoProgressLines: 010100
-  endDialogueLines: 
+  - If you have the water come back and ill help you get comfortable
+  - The Box is right over there
+  - Ill be waiting here
+  - Nice!
+  - 'The MRI is down the hall '
+  - But make yourself comfortable
+  - And be sure to collect stuff you enjoy
+  autoProgressLines: 01010100010001010100
+  endDialogueLines: 00000001000100000001
   autoProgressDelay: 1.5
   typingSpeed: 0.05
   voiceSound: {fileID: 8300000, guid: f660120a80840474d9f326d2aa0cb0a1, type: 3}
   voicePitch: 1
-  choices: []
+  choices:
+  - dialogueIndex: 1
+    choices:
+    - I am good Thanks!
+    - Im feeling a little sick
+    nextDialogueIndexes: 02000000
+    givesQuest: 0101
+  questInProgressIndex: 4
+  questCompletedIndex: 6
+  quest: {fileID: 11400000, guid: 6036b142f2df3cb42bea25a08ca34ccc, type: 2}
