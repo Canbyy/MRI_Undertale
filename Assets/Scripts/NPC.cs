@@ -46,15 +46,15 @@ public class NPC : MonoBehaviour, IInteractable
         SyncQuestState();
 
         //Set dialogue line based on questState
-        if (questState == QuestState.NotStarted)
+        if(questState == QuestState.NotStarted)
         {
             dialogueIndex = 0;
         }
-        else if (questState == QuestState.InProgress)
+        else if(questState == QuestState.InProgress)
         {
             dialogueIndex = dialogueData.questInProgressIndex;
         }
-        else if (questState == QuestState.Completed)
+        else if(questState == QuestState.Completed)
         {
             dialogueIndex = dialogueData.questCompletedIndex;
         }
@@ -70,12 +70,19 @@ public class NPC : MonoBehaviour, IInteractable
 
     private void SyncQuestState()
     {
-        if (dialogueData.quest == null) return;
+        if (dialogueData.quest == null)
+        {
+            questState = QuestState.NotStarted;
+            return;
+        }
 
         string questID = dialogueData.quest.questID;
 
-        //Future update add completing quest and handing in!
-        if (QuestController.Instance.IsQuestCompleted(questID) || QuestController.Instance.IsQuestHandedIn(questID))
+        if (QuestController.Instance.IsQuestHandedIn(questID))
+        {
+            questState = QuestState.Completed;
+        }
+        else if (QuestController.Instance.IsQuestCompleted(questID))
         {
             questState = QuestState.Completed;
         }
@@ -87,6 +94,8 @@ public class NPC : MonoBehaviour, IInteractable
         {
             questState = QuestState.NotStarted;
         }
+
+        Debug.Log($"NPC {gameObject.name} quest state for {questID}: {questState}");
     }
 
     void NextLine()
@@ -103,23 +112,23 @@ public class NPC : MonoBehaviour, IInteractable
         dialogueUI.ClearChoices();
 
         //Check endDialogueLines
-        if (dialogueData.endDialogueLines.Length > dialogueIndex && dialogueData.endDialogueLines[dialogueIndex])
+        if(dialogueData.endDialogueLines.Length > dialogueIndex && dialogueData.endDialogueLines[dialogueIndex])
         {
             EndDialogue();
             return;
         }
 
         //Check if choices & display
-        foreach (DialogueChoice dialogueChoice in dialogueData.choices)
+        foreach(DialogueChoice dialogueChoice in dialogueData.choices)
         {
-            if (dialogueChoice.dialogueIndex == dialogueIndex)
+            if(dialogueChoice.dialogueIndex == dialogueIndex)
             {
                 DisplayChoices(dialogueChoice);
                 return;
             }
         }
 
-        if (++dialogueIndex < dialogueData.dialogueLines.Length)
+        if(++dialogueIndex < dialogueData.dialogueLines.Length)
         {
             //If another line, type next line
             DisplayCurrentLine();
@@ -135,7 +144,7 @@ public class NPC : MonoBehaviour, IInteractable
         isTyping = true;
         dialogueUI.SetDialogueText("");
 
-        foreach (char letter in dialogueData.dialogueLines[dialogueIndex])
+        foreach(char letter in dialogueData.dialogueLines[dialogueIndex])
         {
             dialogueUI.SetDialogueText(dialogueUI.dialogueText.text += letter);
             SoundEffectManager.PlayVoice(dialogueData.voiceSound, dialogueData.voicePitch);
@@ -144,7 +153,7 @@ public class NPC : MonoBehaviour, IInteractable
 
         isTyping = false;
 
-        if (dialogueData.autoProgressLines.Length > dialogueIndex && dialogueData.autoProgressLines[dialogueIndex])
+        if(dialogueData.autoProgressLines.Length > dialogueIndex && dialogueData.autoProgressLines[dialogueIndex])
         {
             yield return new WaitForSeconds(dialogueData.autoProgressDelay);
             NextLine();
@@ -153,7 +162,7 @@ public class NPC : MonoBehaviour, IInteractable
 
     void DisplayChoices(DialogueChoice choice)
     {
-        for (int i = 0; i < choice.choices.Length; i++)
+        for(int i = 0; i < choice.choices.Length; i++)
         {
             int nextIndex = choice.nextDialogueIndexes[i];
             bool givesQuest = choice.givesQuest[i];
@@ -182,21 +191,10 @@ public class NPC : MonoBehaviour, IInteractable
 
     public void EndDialogue()
     {
-        if (questState == QuestState.Completed && !QuestController.Instance.IsQuestHandedIn(dialogueData.quest.questID))
-        {
-            HandleQuestCompletion(dialogueData.quest);
-        }
-
         StopAllCoroutines();
         isDialogueActive = false;
         dialogueUI.SetDialogueText("");
         dialogueUI.ShowDialogueUI(false);
         PauseController.SetPause(false);
-    }
-
-    void HandleQuestCompletion(Quest quest)
-    {
-        //GiveReward
-        QuestController.Instance.HandInQuest(quest.questID);
     }
 }

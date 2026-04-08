@@ -5,7 +5,7 @@ public class StartMenuController : MonoBehaviour
 {
    public void OnStartClick()
     {
-        SceneManager.LoadScene("SampleScene");
+        SceneManager.LoadScene("LoginScene");
     }
 
     public void OnExitClick()

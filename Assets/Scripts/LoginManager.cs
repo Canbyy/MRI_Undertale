@@ -80,7 +80,7 @@ public class LoginManager : MonoBehaviour
             welcomeText.text = "Welkom " + responseData.firstName;
 
             yield return new WaitForSeconds(1f);
-            SceneManager.LoadScene("GameScene");
+            SceneManager.LoadScene("SampleScene");
         }
         else
         {

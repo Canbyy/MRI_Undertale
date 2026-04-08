@@ -16,7 +16,35 @@ public class QuestController : MonoBehaviour
         else Destroy(gameObject);
 
         questUI = FindFirstObjectByType<QuestUI>();
+
+        if (questUI == null)
+        {
+            Debug.LogError("QuestUI is NULL in QuestController.Awake()");
+        }
+        else
+        {
+            Debug.Log("QuestUI found: " + questUI.name);
+        }
+    }
+
+    private void Start()
+    {
+        if (InventoryController.Instance == null)
+        {
+            Debug.LogError("InventoryController.Instance is still NULL in QuestController.Start()");
+            return;
+        }
+
+        Debug.Log("Subscribed to InventoryController.OnInventoryChanged");
         InventoryController.Instance.OnInventoryChanged += CheckInventoryForQuests;
+    }
+
+    private void OnDestroy()
+    {
+        if (InventoryController.Instance != null)
+        {
+            InventoryController.Instance.OnInventoryChanged -= CheckInventoryForQuests;
+        }
     }
 
     public void AcceptQuest(Quest quest)
