@@ -23,7 +23,7 @@ public class RegisterManager : MonoBehaviour
     public TMP_Text welcomeText;
 
     [Header("API")]
-    public string baseUrl = "http://localhost:5183";
+    public string baseUrl = "https://mrigame-api-h0gkdyh7f7cbh7a2.germanywestcentral-01.azurewebsites.net";
 
     private const string TokenKey = "auth_token";
     private const string FirstNameKey = "first_name";

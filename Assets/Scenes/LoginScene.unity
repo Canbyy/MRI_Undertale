@@ -870,7 +870,7 @@ MonoBehaviour:
   passwordInput: {fileID: 2115558572}
   messageText: {fileID: 455388134}
   welcomeText: {fileID: 371704865}
-  baseUrl: http://localhost:5126
+  baseUrl: https://mrigame-api-h0gkdyh7f7cbh7a2.germanywestcentral-01.azurewebsites.net
 --- !u!4 &712324674
 Transform:
   m_ObjectHideFlags: 0

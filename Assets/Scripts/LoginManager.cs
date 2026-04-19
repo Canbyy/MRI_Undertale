@@ -14,11 +14,12 @@ public class LoginManager : MonoBehaviour
     public TMP_Text welcomeText;
 
     [Header("API")]
-    public string baseUrl = "http://localhost:5126";
+    public string baseUrl = "https://mrigame-api-h0gkdyh7f7cbh7a2.germanywestcentral-01.azurewebsites.net";
 
     private const string TokenKey = "auth_token";
     private const string FirstNameKey = "first_name";
     private const string EmailKey = "email";
+
     [System.Serializable]
     public class LoginRequest
     {
@@ -36,6 +37,7 @@ public class LoginManager : MonoBehaviour
 
     public void OnLoginButtonClicked()
     {
+        Debug.Log("[Login] Knop ingedrukt.");
         StartCoroutine(LoginCoroutine());
     }
 
@@ -44,6 +46,9 @@ public class LoginManager : MonoBehaviour
         messageText.text = "Bezig met inloggen...";
         welcomeText.text = "";
 
+        Debug.Log("[Login] Starten met inloggen...");
+        Debug.Log("[Login] URL: " + baseUrl + "/api/Auth/login");
+
         LoginRequest requestData = new LoginRequest
         {
             email = emailInput.text,
@@ -51,6 +56,7 @@ public class LoginManager : MonoBehaviour
         };
 
         string json = JsonUtility.ToJson(requestData);
+        Debug.Log("[Login] Request body: " + json);
 
         using UnityWebRequest request = new UnityWebRequest(baseUrl + "/api/Auth/login", "POST");
         byte[] bodyRaw = Encoding.UTF8.GetBytes(json);
@@ -60,8 +66,13 @@ public class LoginManager : MonoBehaviour
 
         yield return request.SendWebRequest();
 
+        Debug.Log("[Login] Response code: " + request.responseCode);
+        Debug.Log("[Login] Result: " + request.result);
+        Debug.Log("[Login] Response body: " + request.downloadHandler.text);
+
         if (request.result != UnityWebRequest.Result.Success)
         {
+            Debug.LogError("[Login] Error: " + request.error);
             messageText.text = "Login mislukt: " + request.error;
             yield break;
         }
@@ -84,12 +95,16 @@ public class LoginManager : MonoBehaviour
         }
         else
         {
+            Debug.LogWarning("[Login] Onverwachte response code: " + request.responseCode);
             messageText.text = "Login mislukt. Controleer je gegevens.";
         }
     }
 
     private void Start()
     {
+        PlayerPrefs.DeleteAll();
+        Debug.Log("[Login] PlayerPrefs gecleared.");
+        Debug.Log("[Login] LoginManager gestart. BaseUrl: " + baseUrl);
         AutoLoginCheck();
     }
 
@@ -100,11 +115,13 @@ public class LoginManager : MonoBehaviour
             string firstName = PlayerPrefs.GetString(FirstNameKey);
             welcomeText.text = "Welkom " + firstName;
             messageText.text = "Je bent al ingelogd.";
+            Debug.Log("[Login] Al ingelogd als: " + firstName);
         }
         else
         {
             welcomeText.text = "";
             messageText.text = "";
+            Debug.Log("[Login] Geen opgeslagen login gevonden.");
         }
     }
 
@@ -116,5 +133,6 @@ public class LoginManager : MonoBehaviour
 
         welcomeText.text = "";
         messageText.text = "Je bent uitgelogd.";
+        Debug.Log("[Login] Uitgelogd.");
     }
 }
